@@ -1,0 +1,7 @@
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 6 Módulos 11 y 12\MOD12_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 6 Módulos 11 y 12\MOD12_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 6 Módulos 11 y 12\MOD12_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 6 Módulos 11 y 12\MOD12_LAK\Grades.DataModel\obj\Debug\Grades.DataModel.csprojAssemblyReference.cache
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 6 Módulos 11 y 12\MOD12_LAK\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 6 Módulos 11 y 12\MOD12_LAK\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+C:\Users\uttl28\Movistar Cloud\20-610\20483C-Programming-in-C-Sharp\TAREAS\Tarea 6 Módulos 11 y 12\MOD12_LAK\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
